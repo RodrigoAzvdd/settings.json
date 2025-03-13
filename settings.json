@@ -1,0 +1,42 @@
+{
+    "window.titleBarStyle": "custom",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.7,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "workbench.activityBar.location": "hidden",
+    "editor.minimap.enabled": true,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    // "workbench.statusBar.visible": false,
+    "extensions.experimental.affinity": {
+      "asvetliakov.vscode-neovim": 1
+    },
+    "explorer.compactFolders": false, 
+    "workbench.colorTheme": "Vesper ++",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "solid",
+    "workbench.settings.applyToAllProfiles": [
+  
+  
+  
+    
+    ],
+    "json.schemas": [
+      
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "tabnine.experimentalAutoImports": true,
+    "settingsSync.ignoredExtensions": [
+      
+    ],
+    "editor.codeActionsOnSave": {
+      
+    },
+    "liveServer.settings.donotVerifyTags": true,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+  }
